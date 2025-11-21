@@ -1,5 +1,5 @@
 Name: [Nsugbe Lisa Chiamaka]
 Matric Number: 23CH034203
-Live URL: https://llm-qa-system-yourname.streamlit.app
-GitHub Repository: https://github.com/yourusername/LLM_QA_Project_YourName_AB123456CD
+Live URL: 
+GitHub Repository: https://github.com/dianapersephone-droid/LLM_QA_Project_Lisa_23CH034203.git
 Date Submitted: 21/11/2025
